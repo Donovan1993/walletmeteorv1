@@ -7,7 +7,7 @@ import { Navbar } from './Navbar';
 export const App = () => (
   <div>
     <Navbar/>
-   <h1>Meteor Wallet DONO</h1>
+   <h1>Meteor Wallet DONOBIGBIG</h1>
   <ContactForm/> 
   <div><ContactList/></div>
   
