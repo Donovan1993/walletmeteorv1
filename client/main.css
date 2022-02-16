@@ -1,4 +1,7 @@
 @import "../node_modules/bootstrap/scss/bootstrap.scss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 .task-form {
   margin-top: 1rem;
